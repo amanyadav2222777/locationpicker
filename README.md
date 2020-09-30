@@ -11,7 +11,7 @@ The missing location picker made in Flutter for Flutter. With dark theme support
 
 🍭 Remember to enable `Places API`, `Maps SDK for Android`, `Maps SDK for iOS` and `Geocoding API` for your API key.
 
-## Usage
+## How to Use
 
 To use this plugin, add `place_picker` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
